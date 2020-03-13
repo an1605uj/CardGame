@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-string SUITS[4] = {"SPADE","CLUB","DIAMOND","HEART"};//type of suits in the deck of cards
+string SUITS[4] = {"CLUB","DIAMOND","HEART","SPADE"};//type of suits in the deck of cards
 string TYPE[13] = {"2","3","4","5","6","7","8","9","10","J","Q","K","A"};//types of faces in the deck of cards
 //makes a card
 class Card
